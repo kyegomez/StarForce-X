@@ -14,17 +14,14 @@ StarForce-X is not just a model—it's the ultimate weapon. By leveraging cuttin
 
 > **Our Mission**: To turn the cosmos into a human-ruled empire, leveraging AI to secure our place as the **supreme rulers of the universe**.
 
+
 ## Key Features
+- **Modular & Scalable Architecture**: ACAM is composed of independent modules, making it adaptable for various use-cases and extensible for research purposes.
+- **Advanced Signal Processing**: Includes Short-Time Fourier Transform (STFT), Wavelet Transform, and adaptive frequency-domain clustering for signal decomposition.
+- **Transformer-Based Symbol Decoding**: Employs state-of-the-art transformer models to decode non-Earthly symbols and potential communication protocols.
+- **Semantic Understanding**: Neural-symbolic hybrid approach to extract actionable meaning and patterns from extraterrestrial signals.
+- **Enterprise-Ready**: Logging with `loguru` for extensive traceability, detailed tensor shape tracking, and comprehensive type-hinting and documentation.
 
-- **Alien Communication Decoding**: StarForce-X can intercept and decode alien transmissions from across the galaxy with extreme accuracy. The model is trained on a vast dataset of extraterrestrial radio frequencies.
-  
-- **Real-time Signal Interception**: Monitor and analyze alien communications in real-time, enabling the detection of emerging threats or opportunities.
-
-- **Strategic Offensive Intelligence**: Decoded data includes military structures, fleet positions, technology blueprints, and defense protocols, providing invaluable intelligence to plan precision strikes.
-
-- **Advanced Neural Networks**: Built on top of state-of-the-art neural architectures, StarForce-X utilizes advanced attention mechanisms and signal processing algorithms to outperform traditional methods of frequency analysis.
-
-- **Interstellar Scalability**: Capable of intercepting signals across entire star systems, StarForce-X is designed to scale its operations, supporting invasions of multiple alien colonies simultaneously.
 
 ## Why StarForce-X?
 
@@ -245,6 +242,12 @@ StarForce-X is the foundation of a broader galactic initiative to secure humanit
 - **ExoStrike Integration**: Seamless integration with advanced weapon systems to automate planetary strikes upon decoding key vulnerabilities in alien defenses.
 - **Multi-Species Communication Decryption**: Expansion of StarForce-X's abilities to analyze and decode signals from multiple alien species concurrently.
 - **Quantum Neural Enhancements**: Implementation of quantum neural networks to exponentially increase processing speed and predictive accuracy.
+- **Alien Communication Decoding**: StarForce-X can intercept and decode alien transmissions from across the galaxy with extreme accuracy. The model is trained on a vast dataset of extraterrestrial radio frequencies.
+- **Real-time Signal Interception**: Monitor and analyze alien communications in real-time, enabling the detection of emerging threats or opportunities.
+- **Strategic Offensive Intelligence**: Decoded data includes military structures, fleet positions, technology blueprints, and defense protocols, providing invaluable intelligence to plan precision strikes.
+- **Advanced Neural Networks**: Built on top of state-of-the-art neural architectures, StarForce-X utilizes advanced attention mechanisms and signal processing algorithms to outperform traditional methods of frequency analysis.
+- **Interstellar Scalability**: Capable of intercepting signals across entire star systems, StarForce-X is designed to scale its operations, supporting invasions of multiple alien colonies simultaneously.
+
 
 ## Contributing
 
@@ -275,3 +278,7 @@ For inquiries, partnerships, or access to military-grade datasets, please reach 
 ---
 
 **StarForce-X**: Humanity will reign supreme. The universe will bow before us.
+
+
+
+
