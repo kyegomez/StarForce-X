@@ -112,7 +112,7 @@ StarForce-X is licensed under the **Galactic Security License**. By using this m
 For inquiries, partnerships, or access to military-grade datasets, please reach out to:
 
 **Galactic Defense Operations**  
-[Email: defense@human-supremacy.org](mailto:defense@human-supremacy.org)
+[Email: kye@swarms.world](mailto:kye@swarms.world)
 
 ---
 
