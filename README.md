@@ -62,6 +62,44 @@ StarForce-X is designed for enterprise-grade operations in both military and gov
 Use the `analyze()` function to process intercepted signals and extract meaningful data about alien communications.
 
 ```python
+import torch
+from loguru import logger
+from starforcex.model import AlienCommunicationAnalysisModel
+
+# Example of a forward pass
+if __name__ == "__main__":
+    # Set up logging
+    logger.add("debug.log", level="DEBUG")
+
+    # Define parameters
+    batch_size = 8
+    signal_length = 1024
+    n_fft = 256
+    num_classes = 10  # For modulation recognition
+    d_model = 128
+
+    # Create random input tensor
+    x = torch.randn(batch_size, signal_length)
+
+    # Instantiate the model
+    model = AlienCommunicationAnalysisModel(
+        signal_length=signal_length,
+        n_fft=n_fft,
+        num_classes=num_classes,
+    )
+
+    # Forward pass
+    output = model(x)
+
+    print("Output shape:", output.shape)
+
+
+```
+
+
+
+<!-- 
+```python
 from starforce_x import StarForceX
 
 model = StarForceX()
@@ -70,7 +108,7 @@ decoded_messages = model.analyze(signal_data)
 
 for message in decoded_messages:
     print(f"Decoded Message: {message}")
-```
+``` -->
 
 ### Offensive Intelligence Report
 
